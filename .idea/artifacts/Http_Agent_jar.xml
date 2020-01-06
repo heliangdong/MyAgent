@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Http_Agent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Http_Agent_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Http_Agent.jar">
+        <element id="module-output" name="Http_Agent" />
+      </element>
+      <element id="library" level="project" name="Maven: org.javassist:javassist:3.20.0-GA" />
+    </root>
+  </artifact>
+</component>
